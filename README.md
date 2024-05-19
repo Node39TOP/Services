@@ -5,4 +5,5 @@
 - Explorer: https://explorer.node39.top #Soon
 - Twitter: https://twitter.com/node39_/
 - Telegram: @Node39
-- DiscordL Node39
+- Discord: Node39
+- Email: node39top@gmail.com
