@@ -1,9 +1,9 @@
 ### Hardware minumum: 
 
-# 2 Cores
-# 2GB RAM
-# 40 GB SSD
-# Ubuntu 22 - x86 or arm64
+### 2 Cores
+### 2GB RAM
+### 40 GB SSD
+### Ubuntu 22 - x86 or arm64
 ```
 Website: http://hedgeblock.io
 Telegram: https://t.me/hedgeblockio
