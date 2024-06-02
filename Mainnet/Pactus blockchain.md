@@ -8,14 +8,14 @@ Min: 1 CPU; 2Gb Ram; 20Gb SSD
 sudo apt update && sudo apt upgrade -y && sudo apt install tmux git curl -y && sudo apt install make clang pkg-config libssl-dev build-essential -y
 ```
 
-## Download Pactus v1.1.4: (amd64 - x86)
+## Download Pactus v1.1.8: (amd64 - x86)
 ```sh
-cd $HOME && rm -rf node_pactus && wget https://github.com/pactus-project/pactus/releases/download/v1.1.4/pactus-cli_1.1.4_linux_amd64.tar.gz && tar -xzf pactus-cli_1.1.4_linux_amd64.tar.gz && rm -rf pactus-cli_1.1.4_linux_amd64.tar.gz && mv pactus-cli_1.1.4 node_pactus && cd node_pactus
+cd $HOME && rm -rf node_pactus && wget https://github.com/pactus-project/pactus/releases/download/v1.1.8/pactus-cli_1.1.8_linux_amd64.tar.gz && tar -xzf pactus-cli_1.1.8_linux_amd64.tar.gz && rm -rf pactus-cli_1.1.8_linux_amd64.tar.gz && mv pactus-cli_1.1.8 node_pactus && cd node_pactus
 ```
 
-## Download Pactus v1.1.4: (arm64 - M1)
+## Download Pactus v1.1.8: (arm64 - M1)
 ```sh
-cd $HOME && rm -rf node_pactus && wget https://github.com/pactus-project/pactus/releases/download/v1.1.4/pactus-cli_1.1.4_linux_arm64.tar.gz && tar -xzf pactus-cli_1.1.4_linux_arm64.tar.gz && rm -rf pactus-cli_1.1.4_linux_arm64.tar.gz && mv pactus-cli_1.1.4 node_pactus && cd node_pactus
+cd $HOME && rm -rf node_pactus && wget https://github.com/pactus-project/pactus/releases/download/v1.1.8/pactus-cli_1.1.8_linux_arm64.tar.gz && tar -xzf pactus-cli_1.1.8_linux_arm64.tar.gz && rm -rf pactus-cli_1.1.8_linux_arm64.tar.gz && mv pactus-cli_1.1.8 node_pactus && cd node_pactus
 ```
 
 ## Setup:
